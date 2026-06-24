@@ -94,6 +94,7 @@ CMS, RSS readers, and social publishing.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Open-source social media scheduling tool.
 - [RSSHub](https://github.com/DIYgod/RSSHub) — Generate RSS feeds for almost anything.
 - [Statamic](https://github.com/statamic/cms) — Flat-first, Laravel-powered modern CMS.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) — Self-hosted Laravel + React CMS with headless REST API and one-time pricing.
 
 ## Business & Commerce
 
