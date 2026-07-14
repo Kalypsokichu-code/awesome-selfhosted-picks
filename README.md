@@ -38,6 +38,7 @@ Notes, knowledge bases, kanban, and personal workspace tools.
 Customer support, email infrastructure, newsletters, and notifications.
 
 - [Chatwoot](https://github.com/chatwoot/chatwoot) — Open-source customer support and Intercom alternative.
+- [Chimely](https://github.com/dodopayments/chimely) — Open-source, self-hostable in-app notification inbox infrastructure (Rust + Postgres + Redis) with a drop-in <Inbox /> React component. Self-hosted alternative to Knock, Courier, MagicBell, and Novu.
 - [Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner) — Bulk unsubscribe and clean Gmail locally.
 - [Listmonk](https://github.com/knadh/listmonk) — High-performance self-hosted newsletter and mailing list manager.
 - [Notifuse](https://github.com/Notifuse/notifuse) — Self-hosted Mailchimp and Brevo alternative.
