@@ -112,6 +112,7 @@ Authentication, password management, secrets, CAPTCHA, and ad blocking.
 - [authentik](https://github.com/goauthentik/authentik) — Open-source identity provider and SSO.
 - [Cap (CAPTCHA)](https://github.com/tiagozip/cap) — Self-hosted CAPTCHA for the modern web.
 - [Infisical](https://github.com/Infisical/infisical) — Open-source secrets management platform.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Passbolt](https://github.com/passbolt/passbolt_api) — Open-source password manager for teams.
 
 ## Developer Tools
