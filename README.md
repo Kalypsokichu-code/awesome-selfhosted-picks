@@ -113,6 +113,7 @@ Authentication, password management, secrets, CAPTCHA, and ad blocking.
 - [Cap (CAPTCHA)](https://github.com/tiagozip/cap) — Self-hosted CAPTCHA for the modern web.
 - [Infisical](https://github.com/Infisical/infisical) — Open-source secrets management platform.
 - [Passbolt](https://github.com/passbolt/passbolt_api) — Open-source password manager for teams.
+- [Openlane](https://github.com/theopenlane/core) — Open source compliance automation for SOC 2, GDPR, ISO27001, NIST 800-53, and more.
 
 ## Developer Tools
 
