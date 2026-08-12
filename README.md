@@ -133,6 +133,7 @@ Server platforms and homelab dashboards.
 - [Dashwise](https://github.com/andreasmolnardev/dashwise) — All-in-one homelab dashboard with auth.
 - [Glance](https://github.com/glanceapp/glance) — Customizable, fast self-hosted dashboard.
 - [Puter](https://github.com/HeyPuter/puter) — Web-based, self-hostable internet OS.
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) — Self-hosted n8n workflow: polls a JSON endpoint and alerts on Telegram only for new entries.
 
 ## Utilities
 
