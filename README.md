@@ -1,6 +1,6 @@
-# 60 Open-Source Projects
+# 61 Open-Source Projects
 
-> A curated directory of 60 self-hostable, open-source projects worth knowing about.
+> A curated directory of 61 self-hostable, open-source projects worth knowing about.
 
 Every project is free, open-source, and actively maintained. Categories are tagged for quick filtering — jump to any section below.
 
@@ -103,6 +103,7 @@ E-commerce, invoicing, and billing.
 - [Invoicely](https://github.com/legions-developer/invoicely) — Simple modern invoice generator.
 - [Medusa](https://github.com/medusajs/medusa) — Open-source Shopify alternative for ecommerce.
 - [Paymenter](https://github.com/Paymenter/Paymenter) — Open-source billing platform for hosting companies.
+- [Posnic](https://github.com/Posnic/POS) — Offline-first open-source POS and billing software. ([Website](https://www.posnic.com/))
 
 ## Security & Privacy
 
