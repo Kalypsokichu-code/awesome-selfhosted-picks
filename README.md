@@ -91,6 +91,7 @@ CMS, RSS readers, and social publishing.
 
 - [Cockpit](https://github.com/Cockpit-HQ/Cockpit) — Headless, API-first content management system.
 - [Miniflux](https://github.com/miniflux/v2) — Minimalist, opinionated self-hosted RSS reader.
+- [OpenPost](https://github.com/getopenpost/openpost) — Self-hosted social publishing and scheduling.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Open-source social media scheduling tool.
 - [RSSHub](https://github.com/DIYgod/RSSHub) — Generate RSS feeds for almost anything.
 - [Statamic](https://github.com/statamic/cms) — Flat-first, Laravel-powered modern CMS.
