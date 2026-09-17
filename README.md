@@ -1,6 +1,6 @@
-# 60 Open-Source Projects
+# 61 Open-Source Projects
 
-> A curated directory of 60 self-hostable, open-source projects worth knowing about.
+> A curated directory of 61 self-hostable, open-source projects worth knowing about.
 
 Every project is free, open-source, and actively maintained. Categories are tagged for quick filtering — jump to any section below.
 
@@ -132,6 +132,7 @@ Server platforms and homelab dashboards.
 - [Cosmos Cloud](https://github.com/azukaar/Cosmos-Server) — Secure all-in-one self-hosted server platform.
 - [Dashwise](https://github.com/andreasmolnardev/dashwise) — All-in-one homelab dashboard with auth.
 - [Glance](https://github.com/glanceapp/glance) — Customizable, fast self-hosted dashboard.
+- [Pinnule](https://github.com/nikon1977/pinnule) — Zero-touch dashboard with automated discovery.
 - [Puter](https://github.com/HeyPuter/puter) — Web-based, self-hostable internet OS.
 
 ## Utilities
