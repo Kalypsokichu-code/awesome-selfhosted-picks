@@ -30,6 +30,7 @@ Notes, knowledge bases, kanban, and personal workspace tools.
 - [Docmost](https://github.com/docmost/docmost) — Open-source Notion and Confluence alternative.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn-style diagrams.
 - [Kanba](https://github.com/Kanba-co/kanba) — Minimal open-source Trello alternative.
+- [Keel](https://github.com/KeelDev-tech/keel) — Self-hosted job-application autopilot with honesty gates.
 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) — Free and open-source resume builder.
 - [Slash](https://github.com/yourselfhosted/slash) — Open-source URL shortener and bookmarks manager.
 
