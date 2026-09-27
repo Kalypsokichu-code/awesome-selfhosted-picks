@@ -118,6 +118,7 @@ Authentication, password management, secrets, CAPTCHA, and ad blocking.
 
 Runtimes, search, internal tools, package registries, and AI coding.
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) — Windows tray app showing Codex Desktop quota and reset information.
 - [Crikket](https://github.com/redpangilinan/crikket) — Instant bug reporting and feedback tool.
 - [Deno](https://github.com/denoland/deno) — Secure JavaScript and TypeScript runtime.
 - [RepoFlow](https://github.com/RepoFlow-Package-Management) — Universal package registry and proxy manager.
