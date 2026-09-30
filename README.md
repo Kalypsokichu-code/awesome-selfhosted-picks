@@ -132,6 +132,7 @@ Server platforms and homelab dashboards.
 - [Cosmos Cloud](https://github.com/azukaar/Cosmos-Server) — Secure all-in-one self-hosted server platform.
 - [Dashwise](https://github.com/andreasmolnardev/dashwise) — All-in-one homelab dashboard with auth.
 - [Glance](https://github.com/glanceapp/glance) — Customizable, fast self-hosted dashboard.
+- [Peon](https://github.com/Peon-sh/Peon) — Self-hosted Docker PaaS with project RBAC and audit logs.
 - [Puter](https://github.com/HeyPuter/puter) — Web-based, self-hostable internet OS.
 
 ## Utilities
