@@ -1,6 +1,6 @@
-# 60 Open-Source Projects
+# 61 Open-Source Projects
 
-> A curated directory of 60 self-hostable, open-source projects worth knowing about.
+> A curated directory of 61 self-hostable, open-source projects worth knowing about.
 
 Every project is free, open-source, and actively maintained. Categories are tagged for quick filtering — jump to any section below.
 
