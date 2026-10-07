@@ -1,6 +1,6 @@
-# 60 Open-Source Projects
+# 61 Open-Source Projects
 
-> A curated directory of 60 self-hostable, open-source projects worth knowing about.
+> A curated directory of 61 self-hostable, open-source projects worth knowing about.
 
 Every project is free, open-source, and actively maintained. Categories are tagged for quick filtering — jump to any section below.
 
@@ -91,6 +91,7 @@ CMS, RSS readers, and social publishing.
 
 - [Cockpit](https://github.com/Cockpit-HQ/Cockpit) — Headless, API-first content management system.
 - [Miniflux](https://github.com/miniflux/v2) — Minimalist, opinionated self-hosted RSS reader.
+- [OpenPost](https://github.com/getopenpost/openpost) — Self-hosted social publishing and scheduling.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Open-source social media scheduling tool.
 - [RSSHub](https://github.com/DIYgod/RSSHub) — Generate RSS feeds for almost anything.
 - [Statamic](https://github.com/statamic/cms) — Flat-first, Laravel-powered modern CMS.
