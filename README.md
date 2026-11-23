@@ -133,6 +133,7 @@ Server platforms and homelab dashboards.
 - [Dashwise](https://github.com/andreasmolnardev/dashwise) — All-in-one homelab dashboard with auth.
 - [Glance](https://github.com/glanceapp/glance) — Customizable, fast self-hosted dashboard.
 - [Puter](https://github.com/HeyPuter/puter) — Web-based, self-hostable internet OS.
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) — Self-hosted dashboard for website uptime and certificate expiry.
 
 ## Utilities
 
