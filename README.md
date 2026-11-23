@@ -67,6 +67,7 @@ Video editing, photo galleries, image optimization, and screen recording.
 - [Kriti Images](https://github.com/kritihq/kriti-images) — Open-source Cloudflare Images alternative.
 - [Mazanoke](https://github.com/civilblur/mazanoke) — In-browser image optimizer that works offline.
 - [Photofield](https://github.com/SmilyOrg/photofield) — Blazing-fast self-hosted photo gallery viewer.
+- [Vertov](https://github.com/ankurmans/vertov-screen-recorder) — Self-hosted screen recorder with video sharing and transcript editing.
 
 ## Documents
 
