@@ -111,6 +111,7 @@ Authentication, password management, secrets, CAPTCHA, and ad blocking.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) — Network-wide ad and tracker blocker.
 - [authentik](https://github.com/goauthentik/authentik) — Open-source identity provider and SSO.
 - [Cap (CAPTCHA)](https://github.com/tiagozip/cap) — Self-hosted CAPTCHA for the modern web.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) — Self-hosted CAPTCHA server and widget for web forms.
 - [Infisical](https://github.com/Infisical/infisical) — Open-source secrets management platform.
 - [Passbolt](https://github.com/passbolt/passbolt_api) — Open-source password manager for teams.
 
